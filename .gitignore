@@ -3,7 +3,6 @@ HELP.md
 
 # Maven / Spring Boot
 backend/target/
-backend/.mvn/wrapper/maven-wrapper.jar
 
 # Eclipse / Spring Tool Suite
 backend/.apt_generated/
@@ -13,6 +12,16 @@ backend/.project
 backend/.settings/
 backend/.springBeans
 backend/.sts4-cache/
+backend/.aiassistant/
+backend/logs/
+backend/.mvn/
+backend/.aiignore
+backend/.env.properties
+backend/.luarc.json
+backend/Dockerfile
+backend/mvnw
+backend/mvnw.cmd
+
 
 # IntelliJ IDEA
 backend/.idea/
